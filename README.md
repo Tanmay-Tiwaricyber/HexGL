@@ -1,4 +1,4 @@
-# HexGl
+# HexGL
 
 <b>Step 1:</b> Download Vs code 
 
@@ -13,7 +13,9 @@
 <h4>Enjoy This Game</h4>
 
 
-
+<br>
+<br>
+<br>
 
 
 ~Tanmay-Tiwaricyber
