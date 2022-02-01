@@ -18,4 +18,6 @@
 <br>
 
 
+Play This Game at https://tanmaytiwari.itch.io/hexgl
+
 ~Tanmay-Tiwaricyber
